@@ -1,13 +1,16 @@
-The html file is a redirect page with automatic redirection 
-in 0 seconds to the page "https://www.example.com/"
+# Σελίδα Ανακατεύθυνσης
 
+Μια απλή HTML σελίδα που επιτρέπει την ανακατεύθυνση επισκεπτών σε έναν προορισμό της επιλογής σας.
+Είναι χρήσιμη για περιπτώσεις προσωρινής ή μόνιμης ανακατεύθυνσης, όπως αλλαγή διεύθυνσης ιστότοπου, εκπτώσεις, ή καμπάνιες.
 
-To change the Page Title Open HTML File > Go to 4 Line > Change Title "Please Wait..."
+## Χαρακτηριστικά
+- Γρήγορη και αξιόπιστη HTML δομή
+- Εύκολη προσαρμογή σε διαφορετικούς συνδέσμους προορισμού
+- Χρηστική για πολλαπλές περιπτώσεις ανακατεύθυνσης
 
-To change the redirect time Open HTML File > Go to 5 Line > In the content="0... > Change the time /per sec
+## Οδηγίες Χρήσης
+1. Κλωνοποιήστε το αποθετήριο στον υπολογιστή σας.
+2. Ανοίξτε το HTML αρχείο και προσθέστε τον προορισμό της ανακατεύθυνσης.
+3. Ανεβάστε τη σελίδα στον διακομιστή σας.
 
-To change the redirect page Open HTML File > Go to 5 Line > In the content="0 url='https://www.example.com/' > Change and put your redirect website or path
-
-
-Di.il Solutions       
-m. info@di-il.gr
+Η σελίδα θα ανακατευθύνει άμεσα τους χρήστες στον νέο σύνδεσμο όταν την επισκεφτούν.
